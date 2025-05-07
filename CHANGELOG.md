@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`80b1cec`](https://github.com/stdlib-js/stdlib/commit/80b1cec874dbe423a50ed26c1a6c3a7f5fc05cd9) - **docs:** update examples _(by Athan Reines)_
 -   [`d1a712d`](https://github.com/stdlib-js/stdlib/commit/d1a712db9218350f4e37926ac993b97573b65ba9) - **docs:** demonstrate prototype property _(by Athan Reines)_
 -   [`ccd5ca6`](https://github.com/stdlib-js/stdlib/commit/ccd5ca60ccf12f9480f930547afb60da9732bf59) - **feat:** add `array/base/assert/any-has-property` _(by Athan Reines)_
 

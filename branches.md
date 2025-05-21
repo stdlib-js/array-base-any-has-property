@@ -38,19 +38,19 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-has-property"
-%% click B href "https://github.com/stdlib-js/array-base-assert-any-has-property/tree/main"
-%% click C href "https://github.com/stdlib-js/array-base-assert-any-has-property/tree/production"
-%% click D href "https://github.com/stdlib-js/array-base-assert-any-has-property/tree/esm"
-%% click E href "https://github.com/stdlib-js/array-base-assert-any-has-property/tree/deno"
-%% click F href "https://github.com/stdlib-js/array-base-assert-any-has-property/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-has-property"
+%% click B href "https://github.com/stdlib-js/array-base-any-has-property/tree/main"
+%% click C href "https://github.com/stdlib-js/array-base-any-has-property/tree/production"
+%% click D href "https://github.com/stdlib-js/array-base-any-has-property/tree/esm"
+%% click E href "https://github.com/stdlib-js/array-base-any-has-property/tree/deno"
+%% click F href "https://github.com/stdlib-js/array-base-any-has-property/tree/umd"
 ```
 
-[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-has-property
-[production-url]: https://github.com/stdlib-js/array-base-assert-any-has-property/tree/production
-[deno-url]: https://github.com/stdlib-js/array-base-assert-any-has-property/tree/deno
-[deno-readme]: https://github.com/stdlib-js/array-base-assert-any-has-property/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/array-base-assert-any-has-property/tree/umd
-[umd-readme]: https://github.com/stdlib-js/array-base-assert-any-has-property/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/array-base-assert-any-has-property/tree/esm
-[esm-readme]: https://github.com/stdlib-js/array-base-assert-any-has-property/blob/esm/README.md
+[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-has-property
+[production-url]: https://github.com/stdlib-js/array-base-any-has-property/tree/production
+[deno-url]: https://github.com/stdlib-js/array-base-any-has-property/tree/deno
+[deno-readme]: https://github.com/stdlib-js/array-base-any-has-property/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/array-base-any-has-property/tree/umd
+[umd-readme]: https://github.com/stdlib-js/array-base-any-has-property/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/array-base-any-has-property/tree/esm
+[esm-readme]: https://github.com/stdlib-js/array-base-any-has-property/blob/esm/README.md

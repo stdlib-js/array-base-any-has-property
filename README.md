@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import anyHasProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-property@esm/index.mjs';
+import anyHasProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-property@v0.1.0-esm/index.mjs';
 ```
 
 #### anyHasProp( arr, property )
@@ -109,7 +109,7 @@ bool = anyHasProp( [ o1, o2, o3 ], 'toString' );
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import anyHasProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-property@esm/index.mjs';
+import anyHasProp from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-has-property@v0.1.0-esm/index.mjs';
 
 function randomObject() {
     var o = {};
